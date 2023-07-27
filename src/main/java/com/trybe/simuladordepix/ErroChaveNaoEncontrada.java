@@ -6,6 +6,6 @@ package com.trybe.simuladordepix;
 public class ErroChaveNaoEncontrada extends ErroDePix {
 
   ErroChaveNaoEncontrada() {
-    super("A chave não foi encontrada!");
+    super("Chave Pix não encontrada.");
   }
 }

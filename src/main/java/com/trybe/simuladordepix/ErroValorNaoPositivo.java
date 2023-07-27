@@ -5,6 +5,6 @@ package com.trybe.simuladordepix;
  */
 public class ErroValorNaoPositivo extends ErroDePix {
   ErroValorNaoPositivo() {
-    super("O Valor deve ser positivo!");
+    super("O valor do Pix não pode ser menor nem igual a zero.");
   }
 }

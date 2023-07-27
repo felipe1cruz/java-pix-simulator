@@ -5,6 +5,6 @@ package com.trybe.simuladordepix;
  */
 public class ErroChaveEmBranco extends ErroDePix {
   ErroChaveEmBranco() {
-    super("A chave está em branco!");
+    super("A chave Pix não pode estar em branco.");
   }
 }

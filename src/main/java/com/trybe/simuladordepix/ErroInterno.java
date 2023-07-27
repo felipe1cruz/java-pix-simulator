@@ -6,6 +6,6 @@ package com.trybe.simuladordepix;
 public class ErroInterno extends ErroDePix {
 
   ErroInterno() {
-    super("Erro Interno desconhecido!");
+    super("Erro interno.");
   }
 }
